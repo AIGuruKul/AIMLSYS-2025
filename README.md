@@ -10,8 +10,8 @@ This intelligent Document QA application was built during the **AIML System 2025
 - **Event**: AIML System 2025 Conference
 - **Session Type**: Tutorial - Vibe Coding
 - **Duration**: 1 Hour
-- **Session Instructor**: [Anupam Purwar](https://github.com/anupampurwar)
-- **Volunteer**: [Chitranshu Harbola](https://github.com/chitranshu)
+- **Session Instructor**: Anupam Purwar
+- **Volunteer**: [Chitranshu Harbola](https://www.linkedin.com/in/chitranshu-harbola/)
 
 ## 🚀 What This Application Does
 
