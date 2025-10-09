@@ -17,6 +17,20 @@ This intelligent Document QA application was built during the **AIML System 2025
 
 This powerful application combines document processing with AI-powered question answering and real-time web search to provide comprehensive answers about your documents.
 
+## 📸 Application Screenshots
+
+### Main Application Interface
+![Application Interface](assets/images/1.png)
+*The clean and intuitive Streamlit web interface for document upload and Q&A*
+
+### Document Processing & Q&A Demo
+![Document Q&A Example](assets/images/2.png)
+*Example of document processing with AI-powered question answering and web search integration*
+
+### Advanced Features in Action
+![Advanced Features](assets/images/3.png)
+*Demonstration of the application's advanced capabilities and user-friendly design*
+
 ### Key Functionalities
 
 1. **Multi-Format Document Processing**
